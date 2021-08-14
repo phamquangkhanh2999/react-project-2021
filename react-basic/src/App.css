@@ -1,0 +1,27 @@
+.mt-5 {
+  margin-top: 5px;
+}
+.mb-5 {
+  margin-bottom: 5px;
+}
+.mr-5 {
+  margin-right: 5px;
+}
+.ml-5 {
+  margin-left: 5px;
+}
+.mf-20 {
+  margin-left: 85%;
+  text-align: center;
+}
+.pt-2 {
+  padding: 2px 4px;
+}
+.sort_selected ::after {
+  content: '\f00c';
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 0 10px;
+  display: inline-block;
+}
