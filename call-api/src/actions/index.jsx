@@ -50,7 +50,7 @@ export const actAddProduct = (products) => {
 //edit
 export const actEditProductRequest = (id) => {
   return (dispatch) => {
-    return callApi(`products/${id}`, 'GET', id).then((res) => {
+    return callApi(`products/${id}`, 'GET', null).then((res) => {
       dispatch(actEditProduct(res.data));
     });
   };
