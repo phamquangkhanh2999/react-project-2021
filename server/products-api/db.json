@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "nokia x9",
+      "price": "8000",
+      "status": "",
+      "id": 2
+    },
+    {
+      "id": 6,
+      "name": "Sam Sung note 8 ",
+      "price": "20",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Sam Sung note 8 ",
+      "price": "20",
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "dasdasd",
+      "price": "3424",
+      "status": true
+    }
+  ]
+}
