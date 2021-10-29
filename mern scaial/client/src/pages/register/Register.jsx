@@ -1,7 +1,7 @@
-import './register.css';
-import { useContext, useRef } from 'react';
 import axios from 'axios';
+import { useRef } from 'react';
 import { useHistory } from 'react-router-dom';
+import './register.css';
 
 export default function Register() {
   const username = useRef();
